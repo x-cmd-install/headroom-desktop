@@ -1,0 +1,66 @@
+about:
+  description:
+  |
+    Headroom for macOS — cut Claude Code and Codex token costs by ~50%
+  license: MIT
+  homepage: https://extraheadroom.com
+  head: 4a07944
+  archived: false
+  latestVersion: v0.9.7
+  collectedAt: 2026-09-04T05:23:35Z
+timeline:
+  created: 2026-03-30
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-03
+popularity:
+  star: 535
+  watcher: 3
+  fork: 55
+  release: 139
+  contributor: 5
+  pullRequest: 17
+  issue: 15
+language:
+  Rust: 3189305
+  TypeScript: 819975
+  JavaScript: 463613
+  CSS: 128666
+  Python: 20198
+  Shell: 12763
+  HTML: 4973
+  NSIS: 1673
+  Ruby: 1202
+totalBytes: 4642368
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 99
+    mergedPR: 33
+    openPR: 1
+    closedIssue: 3
+    openIssue: 0
+    commit: 375
+  last90d:
+    since: 2026-06-06
+    release: 100
+    mergedPR: 40
+    openPR: 1
+    closedIssue: 6
+    openIssue: 0
+    commit: 664
+  last180d:
+    since: 2026-03-08
+    release: 100
+    mergedPR: 56
+    openPR: 1
+    closedIssue: 13
+    openIssue: 2
+    commit: 913
+  last360d:
+    since: 2025-09-09
+    release: 100
+    mergedPR: 56
+    openPR: 1
+    closedIssue: 13
+    openIssue: 2
+    commit: 913
