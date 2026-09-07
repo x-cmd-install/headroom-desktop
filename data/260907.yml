@@ -1,112 +1,112 @@
 about:
-  description: "Headroom for macOS — cut Claude Code and Codex token costs by ~50%"
+  description: "Menu Bar App on MacOS and Windows that cuts Claude Code and Codex token costs by ~50%"
   license: MIT
   homepage: https://extraheadroom.com
-  head: 5f6dbf4
+  head: 6a0db80
   archived: false
-  latestVersion: "v0.9.10"
-  collectedAt: 2026-09-07T03:57:56Z
+  latestVersion: "v0.9.12"
+  collectedAt: 2026-09-07T20:05:26Z
 timeline:
   created: 2026-03-30
-  lastCommit: 2026-09-06
-  lastRelease: 2026-09-06
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-07
 popularity:
-  star: 537
+  star: 538
   watcher: 3
   fork: 55
-  release: 154
+  release: 164
   contributor: 5
-  pullRequest: 77
+  pullRequest: 80
   issue: 15
 language:
-  Rust: 3299736
-  TypeScript: 832326
+  Rust: 3397715
+  TypeScript: 834481
   JavaScript: 463613
   CSS: 128386
-  Python: 30655
-  Shell: 12763
+  Python: 58205
+  Shell: 34796
   HTML: 4973
   NSIS: 1673
   Ruby: 1202
-totalBytes: 4775327
+totalBytes: 4925044
 recent:
   last30d:
     since: 2026-08-08
     release: 99
-    mergedPR: 34
+    mergedPR: 36
     openPR: 1
     closedIssue: 3
     openIssue: 0
-    commit: 297
+    commit: 313
   last60d:
     since: 2026-07-09
     release: 99
-    mergedPR: 41
+    mergedPR: 43
     openPR: 1
     closedIssue: 4
     openIssue: 0
-    commit: 509
+    commit: 525
   last90d:
     since: 2026-06-09
     release: 100
-    mergedPR: 44
+    mergedPR: 46
     openPR: 1
     closedIssue: 6
     openIssue: 0
-    commit: 659
+    commit: 675
   last180d:
     since: 2026-03-11
     release: 100
-    mergedPR: 60
+    mergedPR: 62
     openPR: 1
     closedIssue: 13
     openIssue: 2
-    commit: 937
+    commit: 953
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 60
+    mergedPR: 62
     openPR: 1
     closedIssue: 13
     openIssue: 2
-    commit: 937
+    commit: 953
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 60
+    mergedPR: 62
     openPR: 1
     closedIssue: 13
     openIssue: 2
-    commit: 1035
+    commit: 1055
 total:
-  release: 154
-  mergedPR: 60
+  release: 164
+  mergedPR: 62
   openPR: 1
   closedIssue: 13
   openIssue: 2
-  commit: 1035
+  commit: 1055
 ---
 path: /home/runner/.x-repo/github.com/gglucass/headroom-desktop
-collectedAt: 2026-09-07T03:58:00Z
+collectedAt: 2026-09-07T20:05:30Z
 loc:
   Rust:
-    code: 55588
-    comments: 12095
-    blanks: 4898
-    files: 26
+    code: 57061
+    comments: 12282
+    blanks: 4970
+    files: 27
   JavaScript:
     code: 12730
     comments: 106
     blanks: 74
     files: 1
   Tsx:
-    code: 11403
-    comments: 956
-    blanks: 671
+    code: 11416
+    comments: 960
+    blanks: 672
     files: 22
   TypeScript:
-    code: 7146
-    comments: 809
+    code: 7156
+    comments: 814
     blanks: 1014
     files: 32
   Css:
@@ -120,15 +120,15 @@ loc:
     blanks: 1
     files: 5
   Python:
-    code: 608
-    comments: 69
-    blanks: 108
-    files: 6
+    code: 1138
+    comments: 89
+    blanks: 183
+    files: 9
   Sh:
-    code: 291
-    comments: 44
-    blanks: 62
-    files: 5
+    code: 641
+    comments: 118
+    blanks: 94
+    files: 6
   Toml:
     code: 55
     comments: 11
@@ -151,19 +151,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 977
-    blanks: 431
-    files: 12
+    comments: 1250
+    blanks: 495
+    files: 14
 total:
-  code: 96937
-  comments: 20679
-  blanks: 8488
-  files: 114
+  code: 99320
+  comments: 21487
+  blanks: 8747
+  files: 121
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T03:58:01+00:00
+  collectedAt: 2026-09-07T20:05:30+00:00
   platform:
     darwin/arm64:
       name:  null
@@ -171,9 +171,9 @@ eget:
       size:  null
       score: null
     darwin/amd64:
-      name:  Headroom_0.9.10_x64-setup.exe
-      url:   https://github.com/gglucass/headroom-desktop/releases/download/v0.9.10/Headroom_0.9.10_x64-setup.exe
-      size:  8535408
+      name:  Headroom_0.9.12_x64-setup.exe
+      url:   https://github.com/gglucass/headroom-desktop/releases/download/v0.9.12/Headroom_0.9.12_x64-setup.exe
+      size:  8579984
       score: 17
     linux/arm64:
       name:  null
@@ -181,9 +181,9 @@ eget:
       size:  null
       score: null
     linux/amd64:
-      name:  Headroom_0.9.10_x64-setup.exe
-      url:   https://github.com/gglucass/headroom-desktop/releases/download/v0.9.10/Headroom_0.9.10_x64-setup.exe
-      size:  8535408
+      name:  Headroom_0.9.12_x64-setup.exe
+      url:   https://github.com/gglucass/headroom-desktop/releases/download/v0.9.12/Headroom_0.9.12_x64-setup.exe
+      size:  8579984
       score: 17
     win/arm64:
       name:  null
@@ -191,7 +191,7 @@ eget:
       size:  null
       score: null
     win/amd64:
-      name:  Headroom_0.9.10_x64-setup.exe
-      url:   https://github.com/gglucass/headroom-desktop/releases/download/v0.9.10/Headroom_0.9.10_x64-setup.exe
-      size:  8535408
+      name:  Headroom_0.9.12_x64-setup.exe
+      url:   https://github.com/gglucass/headroom-desktop/releases/download/v0.9.12/Headroom_0.9.12_x64-setup.exe
+      size:  8579984
       score: 17
