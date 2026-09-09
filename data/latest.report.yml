@@ -2,101 +2,101 @@ about:
   description: "Menu Bar App on MacOS and Windows that cuts Claude Code and Codex token costs by ~50%"
   license: MIT
   homepage: https://extraheadroom.com
-  head: 6a0db80
+  head: 77df4a4
   archived: false
-  latestVersion: "v0.9.13-rc.3"
-  latestRelease: "v0.9.12"
-  latestPrerelease: "v0.9.13-rc.3"
-  collectedAt: 2026-09-08T10:24:05Z
+  latestVersion: "v0.9.14-rc.2"
+  latestRelease: "v0.9.13"
+  latestPrerelease: "v0.9.14-rc.2"
+  collectedAt: 2026-09-09T04:06:26Z
 timeline:
   created: 2026-03-30
-  lastCommit: 2026-09-07
+  lastCommit: 2026-09-08
   lastVersion: 2026-09-08
-  lastRelease: 2026-09-07
+  lastRelease: 2026-09-08
   lastPrerelease: 2026-09-08
 popularity:
-  star: 539
+  star: 542
   watcher: 3
-  fork: 55
-  release: 167
+  fork: 56
+  release: 170
   contributor: 5
-  pullRequest: 80
+  pullRequest: 81
   issue: 15
 language:
-  Rust: 3397715
-  TypeScript: 834481
+  Rust: 3462853
+  TypeScript: 842505
   JavaScript: 463613
   CSS: 128386
-  Python: 58205
+  Python: 76474
   Shell: 34796
   HTML: 4973
   NSIS: 1673
   Ruby: 1202
-totalBytes: 4925044
+totalBytes: 5016475
 recent:
   last30d:
-    since: 2026-08-09
+    since: 2026-08-10
     release: 99
-    mergedPR: 36
+    mergedPR: 37
     openPR: 1
     closedIssue: 3
     openIssue: 0
-    commit: 313
+    commit: 318
   last60d:
-    since: 2026-07-10
+    since: 2026-07-11
     release: 99
-    mergedPR: 43
+    mergedPR: 44
     openPR: 1
     closedIssue: 4
     openIssue: 0
-    commit: 525
+    commit: 530
   last90d:
-    since: 2026-06-10
+    since: 2026-06-11
     release: 100
-    mergedPR: 46
+    mergedPR: 47
     openPR: 1
-    closedIssue: 6
+    closedIssue: 5
     openIssue: 0
-    commit: 675
+    commit: 680
   last180d:
-    since: 2026-03-12
+    since: 2026-03-13
     release: 100
-    mergedPR: 62
+    mergedPR: 63
     openPR: 1
     closedIssue: 13
     openIssue: 2
-    commit: 953
+    commit: 958
   last360d:
-    since: 2025-09-13
+    since: 2025-09-14
     release: 100
-    mergedPR: 62
+    mergedPR: 63
     openPR: 1
     closedIssue: 13
     openIssue: 2
-    commit: 953
+    commit: 958
   last720d:
-    since: 2024-09-18
+    since: 2024-09-19
     release: 100
-    mergedPR: 62
+    mergedPR: 63
     openPR: 1
     closedIssue: 13
     openIssue: 2
-    commit: 1055
+    commit: 1062
 total:
-  release: 167
-  mergedPR: 62
+  release: 170
+  mergedPR: 63
   openPR: 1
   closedIssue: 13
   openIssue: 2
-  commit: 1055
+  commit: 1062
 ---
 path: /home/runner/.x-repo/github.com/gglucass/headroom-desktop
-collectedAt: 2026-09-08T10:24:11Z
+collectedAt: 2026-09-09T04:06:30Z
 loc:
   Rust:
-    code: 57061
-    comments: 12282
-    blanks: 4970
+    code: 58136
+    comments: 12419
+    blanks: 5011
     files: 27
   JavaScript:
     code: 12730
@@ -104,14 +104,14 @@ loc:
     blanks: 74
     files: 1
   Tsx:
-    code: 11416
-    comments: 960
+    code: 11447
+    comments: 967
     blanks: 672
     files: 22
   TypeScript:
-    code: 7156
-    comments: 814
-    blanks: 1014
+    code: 7252
+    comments: 836
+    blanks: 1029
     files: 32
   Css:
     code: 5321
@@ -124,10 +124,10 @@ loc:
     blanks: 1
     files: 5
   Python:
-    code: 1138
-    comments: 89
-    blanks: 183
-    files: 9
+    code: 1500
+    comments: 119
+    blanks: 258
+    files: 11
   Sh:
     code: 641
     comments: 118
@@ -155,15 +155,15 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 1250
+    comments: 1251
     blanks: 495
     files: 14
 total:
-  code: 99320
-  comments: 21487
-  blanks: 8747
-  files: 121
+  code: 100884
+  comments: 21787
+  blanks: 8881
+  files: 123
 ---
 
 ---
-{"id":384187045,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOR06bGs4W5jql","tag_name":"v0.9.12","target_commitish":"6a0db80fd591397194737740232ff2a9a39c6eb0","name":"Headroom v0.9.12","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-07T15:26:35Z","updated_at":"2026-09-07T15:39:41Z","published_at":"2026-09-07T15:34:24Z","assets":[{"id":549006744,"node_id":"RA_kwDOR06bGs4guS2Y","name":"Headroom_0.9.12_amd64.AppImage","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/vnd.appimage","state":"uploaded","size":86145528,"digest":"sha256:2e68bc836e8696424dfbff28436221c1cebbcb976fca583eda33759bd52758c0","download_count":8,"created_at":"2026-09-07T15:38:57Z","updated_at":"2026-09-07T15:39:01Z"},{"id":549006743,"node_id":"RA_kwDOR06bGs4guS2X","name":"Headroom_0.9.12_amd64.AppImage.sig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/pgp-signature","state":"uploaded","size":420,"digest":"sha256:10caf2aa5a845ecc336ddb7e58a52660d9516c185cbebcf60c6354e2c8dba4e5","download_count":1,"created_at":"2026-09-07T15:38:57Z","updated_at":"2026-09-07T15:38:57Z"},{"id":549006745,"node_id":"RA_kwDOR06bGs4guS2Z","name":"Headroom_0.9.12_amd64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-debian-package","state":"uploaded","size":11958998,"digest":"sha256:59713aabe5054c3a549d20d210c84e57c83a718b86ceaa9e37b8611d0b34472d","download_count":14,"created_at":"2026-09-07T15:38:57Z","updated_at":"2026-09-07T15:38:58Z"},{"id":549006742,"node_id":"RA_kwDOR06bGs4guS2W","name":"Headroom_0.9.12_amd64.deb.sig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/pgp-signature","state":"uploaded","size":416,"digest":"sha256:60099844143cd859097b7ef193ea2dd7a33230dc28866b44d1543aea83395ea4","download_count":1,"created_at":"2026-09-07T15:38:57Z","updated_at":"2026-09-07T15:38:57Z"},{"id":549001367,"node_id":"RA_kwDOR06bGs4guRiX","name":"Headroom_0.9.12_mac.app.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":20030559,"digest":"sha256:0c44e56fe2cd85d4267b595d0a5c746c810789287dbfabd832e1b5686c648440","download_count":53,"created_at":"2026-09-07T15:34:27Z","updated_at":"2026-09-07T15:34:28Z"},{"id":549001383,"node_id":"RA_kwDOR06bGs4guRin","name":"Headroom_0.9.12_mac.app.tar.gz.sig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":408,"digest":"sha256:9ad42653062ed73473e6579ef4092de9c86766e6f5b2be7bfd21da293715ae20","download_count":1,"created_at":"2026-09-07T15:34:29Z","updated_at":"2026-09-07T15:34:29Z"},{"id":549001328,"node_id":"RA_kwDOR06bGs4guRhw","name":"Headroom_0.9.12_mac.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":19699223,"digest":"sha256:7f1ac5f04fdc2e13773e7f1aa7338a8461a03f65c8d49460424e883ce749875d","download_count":168,"created_at":"2026-09-07T15:34:25Z","updated_at":"2026-09-07T15:34:27Z"},{"id":549007325,"node_id":"RA_kwDOR06bGs4guS_d","name":"Headroom_0.9.12_x64-setup.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-msdownload","state":"uploaded","size":8579984,"digest":"sha256:7265dbdf893ba9323947a34152955fb58fb0c1230fe04262664dc3a703841c3c","download_count":63,"created_at":"2026-09-07T15:39:26Z","updated_at":"2026-09-07T15:39:27Z"},{"id":549007329,"node_id":"RA_kwDOR06bGs4guS_h","name":"Headroom_0.9.12_x64-setup.exe.sig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":420,"digest":"sha256:e7af0417489adf7888a708c469948a0017726a23379ded36083bcbf25b42392b","download_count":1,"created_at":"2026-09-07T15:39:26Z","updated_at":"2026-09-07T15:39:26Z"},{"id":549007601,"node_id":"RA_kwDOR06bGs4guTDx","name":"latest.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":3168,"digest":"sha256:5137fa03f4b97baf27b165aa05a5a27fd2e5ffd6cdda1074e4cb80ebbaf9a772","download_count":2754,"created_at":"2026-09-07T15:39:40Z","updated_at":"2026-09-07T15:39:40Z"}],"body":""}
+{"id":384721756,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOR06bGs4W7mNc","tag_name":"v0.9.13","target_commitish":"77df4a4e8697b94e37951f9f117abb11f1741bd4","name":"Headroom v0.9.13","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-08T12:34:00Z","updated_at":"2026-09-08T12:49:55Z","published_at":"2026-09-08T12:44:11Z","assets":[{"id":550489999,"node_id":"RA_kwDOR06bGs4gz8-P","name":"Headroom_0.9.13_amd64.AppImage","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/vnd.appimage","state":"uploaded","size":86133240,"digest":"sha256:d1bb46b0918cd770fe75e4275991135896f80917bf59175a41cf2ef9d25c54e7","download_count":5,"created_at":"2026-09-08T12:48:41Z","updated_at":"2026-09-08T12:48:45Z"},{"id":550489998,"node_id":"RA_kwDOR06bGs4gz8-O","name":"Headroom_0.9.13_amd64.AppImage.sig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/pgp-signature","state":"uploaded","size":420,"digest":"sha256:9584dbb1e90a9d93fa9656acb867c925ea783a1fdf5f83663f5a4f0f64913edf","download_count":2,"created_at":"2026-09-08T12:48:41Z","updated_at":"2026-09-08T12:48:41Z"},{"id":550489995,"node_id":"RA_kwDOR06bGs4gz8-L","name":"Headroom_0.9.13_amd64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-debian-package","state":"uploaded","size":11941714,"digest":"sha256:1cf087f16e77a6f804630f864a8590883a8c326f5a0fd15c6d7b07db4c1aabbb","download_count":11,"created_at":"2026-09-08T12:48:41Z","updated_at":"2026-09-08T12:48:42Z"},{"id":550489997,"node_id":"RA_kwDOR06bGs4gz8-N","name":"Headroom_0.9.13_amd64.deb.sig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/pgp-signature","state":"uploaded","size":416,"digest":"sha256:128999d585155267b7537c1c148f9c3abc0ec882bd7f4c68ef472e2ce9272f31","download_count":2,"created_at":"2026-09-08T12:48:41Z","updated_at":"2026-09-08T12:48:41Z"},{"id":550482559,"node_id":"RA_kwDOR06bGs4gz7J_","name":"Headroom_0.9.13_mac.app.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":20070011,"digest":"sha256:6f5d71c6931359f8831d87ec4fc5a06f1eedf35d966e86a7a6047b2c7688f32f","download_count":84,"created_at":"2026-09-08T12:44:14Z","updated_at":"2026-09-08T12:44:15Z"},{"id":550482599,"node_id":"RA_kwDOR06bGs4gz7Kn","name":"Headroom_0.9.13_mac.app.tar.gz.sig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":408,"digest":"sha256:bf420b72bd2a1622152a730209ebcd1eede9a7ef6bf44a9d86ab44e24ab1001d","download_count":2,"created_at":"2026-09-08T12:44:15Z","updated_at":"2026-09-08T12:44:15Z"},{"id":550482520,"node_id":"RA_kwDOR06bGs4gz7JY","name":"Headroom_0.9.13_mac.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":19737848,"digest":"sha256:f82ca429e59bc3144ce41d9ef17c930dffed3b7b51849a25acf2d339c43d2f44","download_count":89,"created_at":"2026-09-08T12:44:12Z","updated_at":"2026-09-08T12:44:13Z"},{"id":550492108,"node_id":"RA_kwDOR06bGs4gz9fM","name":"Headroom_0.9.13_x64-setup.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-msdownload","state":"uploaded","size":8583824,"digest":"sha256:ee38b853da6920ff6d457e75c37ca119d441e2ee60ed4e944a1bbeb55e68f212","download_count":70,"created_at":"2026-09-08T12:49:44Z","updated_at":"2026-09-08T12:49:45Z"},{"id":550492107,"node_id":"RA_kwDOR06bGs4gz9fL","name":"Headroom_0.9.13_x64-setup.exe.sig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":420,"digest":"sha256:ac38d6ffecbf4eb9885bff622a30b461e1cbb29bf447ed70b5de33e2dcbf31ed","download_count":1,"created_at":"2026-09-08T12:49:44Z","updated_at":"2026-09-08T12:49:45Z"},{"id":550492500,"node_id":"RA_kwDOR06bGs4gz9lU","name":"latest.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":3168,"digest":"sha256:a76d64c69e9d4286c9093ae3307d2c3d294aea2e7345f92a7b4f43033382b11c","download_count":2303,"created_at":"2026-09-08T12:49:54Z","updated_at":"2026-09-08T12:49:54Z"}],"body":""}
