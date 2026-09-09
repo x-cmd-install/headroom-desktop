@@ -2,101 +2,101 @@ about:
   description: "Menu Bar App on MacOS and Windows that cuts Claude Code and Codex token costs by ~50%"
   license: MIT
   homepage: https://extraheadroom.com
-  head: 77df4a4
+  head: 2da9a25
   archived: false
-  latestVersion: "v0.9.14-rc.2"
-  latestRelease: "v0.9.13"
-  latestPrerelease: "v0.9.14-rc.2"
-  collectedAt: 2026-09-09T04:06:26Z
+  latestVersion: "v0.9.14"
+  latestRelease: "v0.9.14"
+  latestPrerelease: "v0.9.14-rc.10"
+  collectedAt: 2026-09-09T18:28:56Z
 timeline:
   created: 2026-03-30
-  lastCommit: 2026-09-08
-  lastVersion: 2026-09-08
-  lastRelease: 2026-09-08
-  lastPrerelease: 2026-09-08
+  lastCommit: 2026-09-09
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
+  lastPrerelease: 2026-09-09
 popularity:
   star: 542
   watcher: 3
   fork: 56
-  release: 170
+  release: 179
   contributor: 5
-  pullRequest: 81
+  pullRequest: 84
   issue: 15
 language:
-  Rust: 3462853
-  TypeScript: 842505
+  Rust: 3494875
+  TypeScript: 855438
   JavaScript: 463613
   CSS: 128386
-  Python: 76474
+  Python: 78392
   Shell: 34796
   HTML: 4973
   NSIS: 1673
   Ruby: 1202
-totalBytes: 5016475
+totalBytes: 5063348
 recent:
   last30d:
     since: 2026-08-10
     release: 99
-    mergedPR: 37
-    openPR: 1
+    mergedPR: 38
+    openPR: 2
     closedIssue: 3
     openIssue: 0
-    commit: 318
+    commit: 330
   last60d:
     since: 2026-07-11
     release: 99
-    mergedPR: 44
-    openPR: 1
+    mergedPR: 45
+    openPR: 2
     closedIssue: 4
     openIssue: 0
-    commit: 530
+    commit: 542
   last90d:
     since: 2026-06-11
     release: 100
-    mergedPR: 47
-    openPR: 1
+    mergedPR: 48
+    openPR: 2
     closedIssue: 5
     openIssue: 0
-    commit: 680
+    commit: 692
   last180d:
     since: 2026-03-13
     release: 100
-    mergedPR: 63
-    openPR: 1
+    mergedPR: 64
+    openPR: 2
     closedIssue: 13
     openIssue: 2
-    commit: 958
+    commit: 970
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 63
-    openPR: 1
+    mergedPR: 64
+    openPR: 2
     closedIssue: 13
     openIssue: 2
-    commit: 958
+    commit: 970
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 63
-    openPR: 1
+    mergedPR: 64
+    openPR: 2
     closedIssue: 13
     openIssue: 2
-    commit: 1062
+    commit: 1076
 total:
-  release: 170
-  mergedPR: 63
-  openPR: 1
+  release: 179
+  mergedPR: 64
+  openPR: 2
   closedIssue: 13
   openIssue: 2
-  commit: 1062
+  commit: 1076
 ---
 path: /home/runner/.x-repo/github.com/gglucass/headroom-desktop
-collectedAt: 2026-09-09T04:06:30Z
+collectedAt: 2026-09-09T18:28:59Z
 loc:
   Rust:
-    code: 58136
-    comments: 12419
-    blanks: 5011
+    code: 58447
+    comments: 12578
+    blanks: 5022
     files: 27
   JavaScript:
     code: 12730
@@ -104,14 +104,14 @@ loc:
     blanks: 74
     files: 1
   Tsx:
-    code: 11447
-    comments: 967
-    blanks: 672
+    code: 11519
+    comments: 982
+    blanks: 673
     files: 22
   TypeScript:
-    code: 7252
-    comments: 836
-    blanks: 1029
+    code: 7403
+    comments: 875
+    blanks: 1054
     files: 32
   Css:
     code: 5321
@@ -124,9 +124,9 @@ loc:
     blanks: 1
     files: 5
   Python:
-    code: 1500
-    comments: 119
-    blanks: 258
+    code: 1535
+    comments: 121
+    blanks: 261
     files: 11
   Sh:
     code: 641
@@ -159,9 +159,9 @@ loc:
     blanks: 495
     files: 14
 total:
-  code: 100884
-  comments: 21787
-  blanks: 8881
+  code: 101453
+  comments: 22064
+  blanks: 8927
   files: 123
 ---
 
