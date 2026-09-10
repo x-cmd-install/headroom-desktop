@@ -20,46 +20,60 @@ x install headroom-desktop
 
 ## Release
 
-- **Latest**: `v0.9.14` (2026-09-09)
-- **Last commit**: 2026-09-09
+- **Latest**: `v0.9.16-rc.1` (2026-09-10)
+- **Last commit**: 2026-09-10
 - **Assets in release**: 10
-- **Published**: 2026-09-09T10:57:43Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [Headroom_0.9.15_amd64.AppImage](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.15/Headroom_0.9.15_amd64.AppImage) | 82.2 MiB | `other` |
+| [Headroom_0.9.15_amd64.AppImage.sig](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.15/Headroom_0.9.15_amd64.AppImage.sig) | 420 B | `other` |
+| [Headroom_0.9.15_amd64.deb](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.15/Headroom_0.9.15_amd64.deb) | 11.4 MiB | `runtime/deb/amd64` |
+| [Headroom_0.9.15_amd64.deb.sig](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.15/Headroom_0.9.15_amd64.deb.sig) | 416 B | `other` |
+| [Headroom_0.9.15_mac.app.tar.gz](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.15/Headroom_0.9.15_mac.app.tar.gz) | 19.2 MiB | `native/unknown` |
+| [Headroom_0.9.15_mac.app.tar.gz.sig](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.15/Headroom_0.9.15_mac.app.tar.gz.sig) | 408 B | `other` |
+| [Headroom_0.9.15_mac.dmg](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.15/Headroom_0.9.15_mac.dmg) | 18.8 MiB | `other` |
+| [Headroom_0.9.15_x64-setup.exe](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.15/Headroom_0.9.15_x64-setup.exe) | 8.1 MiB | `other` |
+| [Headroom_0.9.15_x64-setup.exe.sig](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.15/Headroom_0.9.15_x64-setup.exe.sig) | 420 B | `other` |
+| [latest.json](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.15/latest.json) | 3.1 KiB | `other` |
 
 ## Popularity
 
-- **Stars**: 544 · **Forks**: 56 · **Open issues**: 15 · **Contributors**: 5
+- **Stars**: 546 · **Forks**: 56 · **Open issues**: 15 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 179 · **Merged PRs**: 64 · **Open PRs**: 2 · **Closed issues**: 13 · **Open issues**: 2 · **Commits**: 1076
+- **Releases**: 190 · **Merged PRs**: 65 · **Open PRs**: 2 · **Closed issues**: 13 · **Open issues**: 2 · **Commits**: 1095
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 99 | 38 | 2 | 3 | 0 | 330 |
-| 90d | 2026-06-12 | 100 | 48 | 2 | 5 | 0 | 692 |
-| 360d | 2025-09-15 | 100 | 64 | 2 | 13 | 2 | 970 |
+| 30d | 2026-08-11 | 99 | 39 | 2 | 3 | 0 | 348 |
+| 90d | 2026-06-12 | 100 | 49 | 2 | 5 | 0 | 710 |
+| 360d | 2025-09-15 | 100 | 65 | 2 | 13 | 2 | 988 |
 
 ## Code size
 
-Total: **101,109** lines of code across **83** files in the top 5 languages.
+Total: **101,115** lines of code across **83** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 58,447 | 12,578 | 5,022 | 27 |
+| Rust | 58,733 | 12,743 | 5,038 | 27 |
 | JavaScript | 12,730 | 106 | 74 | 1 |
-| Tsx | 11,519 | 982 | 673 | 22 |
-| TypeScript | 7,403 | 875 | 1,054 | 32 |
-| Css | 5,321 | 176 | 962 | 1 |
+| Tsx | 11,317 | 986 | 670 | 22 |
+| TypeScript | 7,338 | 869 | 1,049 | 32 |
+| Css | 5,308 | 181 | 960 | 1 |
 
 ## Improve this data
 
 Install metadata for headroom-desktop lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `headroom-desktop` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/headroom-desktop.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/headroom-desktop.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:04:51Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:05:02Z._
