@@ -38,7 +38,7 @@ Total: **101,115** lines of code across **83** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 546 · **Forks**: 56 · **Open issues**: 15 · **Contributors**: 5
+- **Stars**: 547 · **Forks**: 56 · **Open issues**: 15 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -79,4 +79,4 @@ Install metadata for headroom-desktop lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:01:48Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:39:55Z._
