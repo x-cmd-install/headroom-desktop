@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.9.16-rc.1"
   latestRelease: "v0.9.15"
   latestPrerelease: "v0.9.16-rc.1"
-  collectedAt: 2026-09-11T04:01:38Z
+  collectedAt: 2026-09-11T20:39:46Z
 timeline:
   created: 2026-03-30
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 2026-09-10
 popularity:
-  star: 546
+  star: 547
   watcher: 3
   fork: 56
   release: 190
@@ -91,7 +91,7 @@ total:
   commit: 1095
 ---
 path: /home/runner/.x-repo/github.com/gglucass/headroom-desktop
-collectedAt: 2026-09-11T04:01:43Z
+collectedAt: 2026-09-11T20:39:51Z
 loc:
   Rust:
     code: 58733
