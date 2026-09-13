@@ -38,7 +38,7 @@ Total: **101,115** lines of code across **83** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 547 · **Forks**: 56 · **Open issues**: 15 · **Contributors**: 5
+- **Stars**: 550 · **Forks**: 56 · **Open issues**: 15 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **101,115** lines of code across **83** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 99 | 39 | 2 | 3 | 0 | 348 |
-| last60d | 2026-07-14 | 99 | 46 | 2 | 4 | 0 | 560 |
-| 90d | 2026-06-14 | 100 | 49 | 2 | 5 | 0 | 710 |
-| last180d | 2026-03-16 | 100 | 65 | 2 | 13 | 2 | 988 |
-| 360d | 2025-09-17 | 100 | 65 | 2 | 13 | 2 | 988 |
-| last720d | 2024-09-22 | 100 | 65 | 2 | 13 | 2 | 1095 |
+| 30d | 2026-08-14 | 99 | 39 | 2 | 3 | 0 | 348 |
+| last60d | 2026-07-15 | 99 | 45 | 2 | 4 | 0 | 560 |
+| 90d | 2026-06-15 | 100 | 49 | 2 | 5 | 0 | 710 |
+| last180d | 2026-03-17 | 100 | 65 | 2 | 13 | 2 | 988 |
+| 360d | 2025-09-18 | 100 | 65 | 2 | 13 | 2 | 988 |
+| last720d | 2024-09-23 | 100 | 65 | 2 | 13 | 2 | 1095 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for headroom-desktop lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:03:32Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:15:32Z._
