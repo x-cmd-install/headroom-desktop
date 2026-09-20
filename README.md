@@ -4,7 +4,7 @@
 
 Menu Bar App on MacOS and Windows that cuts Claude Code and Codex token costs by ~50%
 
-![headroom-desktop](https://repo.x-cmd.io/headroom-desktop.svg)
+[![x-cmd/install — headroom-desktop Code Quality Monitoring Repo Card](https://repo.x-cmd.io/headroom-desktop.svg)](https://x-cmd.com/install/headroom-desktop)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **103,368** lines of code across **83** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 558 · **Forks**: 59 · **Open issues**: 15 · **Contributors**: 5
+- **Stars**: 559 · **Forks**: 59 · **Open issues**: 15 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **103,368** lines of code across **83** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 99 | 40 | 2 | 2 | 0 | 296 |
-| last60d | 2026-07-20 | 99 | 46 | 2 | 4 | 0 | 566 |
-| 90d | 2026-06-20 | 100 | 49 | 2 | 5 | 0 | 694 |
-| last180d | 2026-03-22 | 100 | 66 | 2 | 13 | 2 | 997 |
-| 360d | 2025-09-23 | 100 | 66 | 2 | 13 | 2 | 997 |
-| last720d | 2024-09-28 | 100 | 66 | 2 | 13 | 2 | 1105 |
+| 30d | 2026-08-21 | 99 | 38 | 2 | 2 | 0 | 204 |
+| last60d | 2026-07-22 | 99 | 46 | 2 | 4 | 0 | 514 |
+| 90d | 2026-06-22 | 100 | 49 | 2 | 5 | 0 | 651 |
+| last180d | 2026-03-24 | 100 | 66 | 2 | 13 | 2 | 994 |
+| 360d | 2025-09-25 | 100 | 66 | 2 | 13 | 2 | 997 |
+| last720d | 2024-09-30 | 100 | 66 | 2 | 13 | 2 | 1105 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for headroom-desktop lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:07:34Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:23:45Z._
