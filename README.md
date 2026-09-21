@@ -32,28 +32,28 @@ Total: **103,368** lines of code across **83** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.9.16` (2026-09-17)
+- **Latest**: `v0.9.17-rc.2` (2026-09-17)
 - **Last commit**: 2026-09-17
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 559 · **Forks**: 59 · **Open issues**: 15 · **Contributors**: 5
+- **Stars**: 565 · **Forks**: 59 · **Open issues**: 15 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 196 · **Merged PRs**: 66 · **Open PRs**: 2 · **Closed issues**: 13 · **Open issues**: 2 · **Commits**: 1105
+- **Releases**: 198 · **Merged PRs**: 66 · **Open PRs**: 2 · **Closed issues**: 13 · **Open issues**: 2 · **Commits**: 1105
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 99 | 38 | 2 | 2 | 0 | 204 |
-| last60d | 2026-07-22 | 99 | 46 | 2 | 4 | 0 | 514 |
-| 90d | 2026-06-22 | 100 | 49 | 2 | 5 | 0 | 651 |
-| last180d | 2026-03-24 | 100 | 66 | 2 | 13 | 2 | 994 |
-| 360d | 2025-09-25 | 100 | 66 | 2 | 13 | 2 | 997 |
-| last720d | 2024-09-30 | 100 | 66 | 2 | 13 | 2 | 1105 |
+| 30d | 2026-08-22 | 99 | 36 | 2 | 1 | 0 | 204 |
+| last60d | 2026-07-23 | 99 | 46 | 2 | 4 | 0 | 514 |
+| 90d | 2026-06-23 | 100 | 49 | 2 | 5 | 0 | 651 |
+| last180d | 2026-03-25 | 100 | 66 | 2 | 13 | 2 | 994 |
+| 360d | 2025-09-26 | 100 | 66 | 2 | 13 | 2 | 997 |
+| last720d | 2024-10-01 | 100 | 66 | 2 | 13 | 2 | 1105 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for headroom-desktop lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T04:23:45Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T04:21:44Z._
