@@ -14,14 +14,14 @@ x install headroom-desktop
 
 ## Code insight
 
-Total: **134,377** lines of code across **99** files in the top 5 languages.
+Total: **135,064** lines of code across **99** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 86,904 | 10,147 | 6,858 | 29 |
+| Rust | 87,552 | 10,143 | 6,870 | 29 |
 | JavaScript | 12,960 | 152 | 92 | 3 |
-| Tsx | 11,950 | 1,107 | 737 | 30 |
-| TypeScript | 9,090 | 1,304 | 1,276 | 36 |
+| Tsx | 11,950 | 1,108 | 737 | 30 |
+| TypeScript | 9,109 | 1,311 | 1,280 | 36 |
 | Css | 5,271 | 189 | 949 | 1 |
 
 ## Source
@@ -32,43 +32,43 @@ Total: **134,377** lines of code across **99** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.9.36-rc.5` (2026-10-06)
-- **Last commit**: 2026-10-06
+- **Latest**: `v0.9.37-rc.9` (2026-10-07)
+- **Last commit**: 2026-10-07
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 591 · **Forks**: 62 · **Open issues**: 16 · **Contributors**: 5
+- **Stars**: 592 · **Forks**: 62 · **Open issues**: 16 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 68 · **Merged PRs**: 111 · **Open PRs**: 1 · **Closed issues**: 14 · **Open issues**: 2 · **Commits**: 1612
+- **Releases**: 73 · **Merged PRs**: 112 · **Open PRs**: 1 · **Closed issues**: 14 · **Open issues**: 2 · **Commits**: 1637
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 33 | 48 | 1 | 1 | 0 | 439 |
-| last60d | 2026-08-08 | 56 | 85 | 1 | 4 | 0 | 822 |
-| 90d | 2026-07-09 | 64 | 92 | 1 | 5 | 0 | 1007 |
-| last180d | 2026-04-10 | 68 | 108 | 1 | 12 | 1 | 1340 |
-| 360d | 2025-10-12 | 68 | 111 | 1 | 14 | 2 | 1430 |
-| last720d | 2024-10-17 | 68 | 111 | 1 | 14 | 2 | 1612 |
+| 30d | 2026-09-08 | 36 | 48 | 1 | 1 | 0 | 461 |
+| last60d | 2026-08-09 | 60 | 86 | 1 | 4 | 0 | 844 |
+| 90d | 2026-07-10 | 69 | 93 | 1 | 5 | 0 | 1029 |
+| last180d | 2026-04-11 | 73 | 109 | 1 | 12 | 1 | 1362 |
+| 360d | 2025-10-13 | 73 | 112 | 1 | 14 | 2 | 1452 |
+| last720d | 2024-10-18 | 73 | 112 | 1 | 14 | 2 | 1637 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [Headroom_0.9.35_amd64.AppImage](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.35/Headroom_0.9.35_amd64.AppImage) | 83.4 MiB | `other` |
-| [Headroom_0.9.35_amd64.AppImage.sig](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.35/Headroom_0.9.35_amd64.AppImage.sig) | 420 B | `other` |
-| [Headroom_0.9.35_amd64.deb](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.35/Headroom_0.9.35_amd64.deb) | 12.1 MiB | `runtime/deb/amd64` |
-| [Headroom_0.9.35_amd64.deb.sig](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.35/Headroom_0.9.35_amd64.deb.sig) | 416 B | `other` |
-| [Headroom_0.9.35_mac.app.tar.gz](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.35/Headroom_0.9.35_mac.app.tar.gz) | 20.5 MiB | `native/unknown` |
-| [Headroom_0.9.35_mac.app.tar.gz.sig](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.35/Headroom_0.9.35_mac.app.tar.gz.sig) | 408 B | `other` |
-| [Headroom_0.9.35_mac.dmg](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.35/Headroom_0.9.35_mac.dmg) | 20.2 MiB | `other` |
-| [Headroom_0.9.35_x64-setup.exe](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.35/Headroom_0.9.35_x64-setup.exe) | 8.7 MiB | `other` |
-| [Headroom_0.9.35_x64-setup.exe.sig](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.35/Headroom_0.9.35_x64-setup.exe.sig) | 420 B | `other` |
-| [latest.json](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.35/latest.json) | 3.1 KiB | `other` |
+| [Headroom_0.9.36_amd64.AppImage](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.36/Headroom_0.9.36_amd64.AppImage) | 83.4 MiB | `other` |
+| [Headroom_0.9.36_amd64.AppImage.sig](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.36/Headroom_0.9.36_amd64.AppImage.sig) | 420 B | `other` |
+| [Headroom_0.9.36_amd64.deb](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.36/Headroom_0.9.36_amd64.deb) | 12.1 MiB | `runtime/deb/amd64` |
+| [Headroom_0.9.36_amd64.deb.sig](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.36/Headroom_0.9.36_amd64.deb.sig) | 416 B | `other` |
+| [Headroom_0.9.36_mac.app.tar.gz](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.36/Headroom_0.9.36_mac.app.tar.gz) | 20.6 MiB | `native/unknown` |
+| [Headroom_0.9.36_mac.app.tar.gz.sig](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.36/Headroom_0.9.36_mac.app.tar.gz.sig) | 408 B | `other` |
+| [Headroom_0.9.36_mac.dmg](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.36/Headroom_0.9.36_mac.dmg) | 20.2 MiB | `other` |
+| [Headroom_0.9.36_x64-setup.exe](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.36/Headroom_0.9.36_x64-setup.exe) | 8.7 MiB | `other` |
+| [Headroom_0.9.36_x64-setup.exe.sig](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.36/Headroom_0.9.36_x64-setup.exe.sig) | 420 B | `other` |
+| [latest.json](https://github.com/gglucass/headroom-desktop/releases/download/v0.9.36/latest.json) | 3.2 KiB | `other` |
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for headroom-desktop lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:21:03Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T05:30:09Z._
