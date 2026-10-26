@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 87669240,
       "digest": "sha256:9fb7f6a81f2320de060766d38048b940c56e4aca3d910ebf08a1ec247690573d",
-      "download_count": 10,
+      "download_count": 14,
       "created_at": "2026-10-24T09:20:49Z",
       "updated_at": "2026-10-24T09:20:52Z",
       "browser_download_url": "https://github.com/gglucass/headroom-desktop/releases/download/v0.9.49/Headroom_0.9.49_amd64.AppImage"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 420,
       "digest": "sha256:87fed6c9235a34bf8d379392776ab1bc109a6adfff62780458d5b001ef0911a9",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-24T09:20:49Z",
       "updated_at": "2026-10-24T09:20:50Z",
       "browser_download_url": "https://github.com/gglucass/headroom-desktop/releases/download/v0.9.49/Headroom_0.9.49_amd64.AppImage.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12906396,
       "digest": "sha256:e68833fb9a22d1de4c5c92372295b63c34b8b03124579ab51b739633e457b940",
-      "download_count": 9,
+      "download_count": 17,
       "created_at": "2026-10-24T09:20:49Z",
       "updated_at": "2026-10-24T09:20:50Z",
       "browser_download_url": "https://github.com/gglucass/headroom-desktop/releases/download/v0.9.49/Headroom_0.9.49_amd64.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 22117188,
       "digest": "sha256:d0b7b6889a040a9b747c376626b8ed01f7df2b9a988eebcf1630fd024d74d18f",
-      "download_count": 413,
+      "download_count": 548,
       "created_at": "2026-10-24T09:16:28Z",
       "updated_at": "2026-10-24T09:16:29Z",
       "browser_download_url": "https://github.com/gglucass/headroom-desktop/releases/download/v0.9.49/Headroom_0.9.49_mac.app.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 21719957,
       "digest": "sha256:f53a5f6b1859cf69c96353ad4e7bffdba27851b5b30216bb7b4b717469d24818",
-      "download_count": 110,
+      "download_count": 216,
       "created_at": "2026-10-24T09:16:26Z",
       "updated_at": "2026-10-24T09:16:27Z",
       "browser_download_url": "https://github.com/gglucass/headroom-desktop/releases/download/v0.9.49/Headroom_0.9.49_mac.dmg"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 9336776,
       "digest": "sha256:f405f2264e725d86cbaa756be1e9fcb07c6c35ce1bb9ab1e90a6c1634e652a3b",
-      "download_count": 231,
+      "download_count": 329,
       "created_at": "2026-10-24T09:22:43Z",
       "updated_at": "2026-10-24T09:22:44Z",
       "browser_download_url": "https://github.com/gglucass/headroom-desktop/releases/download/v0.9.49/Headroom_0.9.49_x64-setup.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3306,
       "digest": "sha256:079f1025265d4af51649d8816c142947c14487d3be9be47c3789bebff72818d8",
-      "download_count": 8079,
+      "download_count": 18607,
       "created_at": "2026-10-24T09:23:03Z",
       "updated_at": "2026-10-24T09:23:03Z",
       "browser_download_url": "https://github.com/gglucass/headroom-desktop/releases/download/v0.9.49/latest.json"
