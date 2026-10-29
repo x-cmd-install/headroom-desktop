@@ -32,7 +32,7 @@ Total: **143,866** lines of code across **102** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.9.52-rc.4` (2026-10-27)
+- **Latest**: `v0.9.52-rc.11` (2026-10-27)
 - **Last commit**: 2026-10-27
 - **Assets in release**: 10
 
@@ -42,18 +42,18 @@ Total: **143,866** lines of code across **102** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 141 · **Open PRs**: 4 · **Closed issues**: 15 · **Open issues**: 2 · **Commits**: 2084
+- **Releases**: 90 · **Merged PRs**: 141 · **Open PRs**: 5 · **Closed issues**: 15 · **Open issues**: 2 · **Commits**: 2084
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 34 | 53 | 4 | 1 | 0 | 535 |
-| last60d | 2026-08-29 | 54 | 102 | 4 | 2 | 0 | 1018 |
-| 90d | 2026-07-30 | 74 | 119 | 4 | 5 | 0 | 1356 |
-| last180d | 2026-05-01 | 82 | 134 | 4 | 10 | 1 | 1631 |
-| 360d | 2025-11-02 | 83 | 141 | 4 | 15 | 2 | 1851 |
-| last720d | 2024-11-07 | 83 | 141 | 4 | 15 | 2 | 2084 |
+| 30d | 2026-09-29 | 40 | 51 | 5 | 1 | 0 | 535 |
+| last60d | 2026-08-30 | 61 | 102 | 5 | 2 | 0 | 1018 |
+| 90d | 2026-07-31 | 81 | 119 | 5 | 5 | 0 | 1356 |
+| last180d | 2026-05-02 | 89 | 134 | 5 | 10 | 1 | 1631 |
+| 360d | 2025-11-03 | 90 | 141 | 5 | 15 | 2 | 1851 |
+| last720d | 2024-11-08 | 90 | 141 | 5 | 15 | 2 | 2084 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for headroom-desktop lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:00:53Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:14:17Z._
