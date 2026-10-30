@@ -1,0 +1,168 @@
+about:
+  description: "Menu Bar App on MacOS and Windows that cuts Claude Code and Codex token costs by ~50%"
+  license: MIT
+  homepage: https://extraheadroom.com
+  head: 8836e39
+  archived: false
+  latestVersion: "v0.9.53-rc.5"
+  latestRelease: "v0.9.52"
+  latestPrerelease: "v0.9.53-rc.5"
+  collectedAt: 2026-10-30T05:13:37Z
+timeline:
+  created: 2026-03-30
+  lastCommit: 2026-10-29
+  lastVersion: 2026-10-30
+  lastRelease: 2026-10-29
+  lastPrerelease: 2026-10-30
+popularity:
+  star: 628
+  watcher: 3
+  fork: 68
+  release: 85
+  contributor: 5
+  pullRequest: 168
+  issue: 17
+language:
+  Rust: 5493575
+  TypeScript: 1064712
+  JavaScript: 480228
+  CSS: 130512
+  Python: 69544
+  Shell: 58154
+  HTML: 4973
+  NSIS: 2371
+  Ruby: 1202
+totalBytes: 7305271
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 34
+    mergedPR: 45
+    openPR: 4
+    closedIssue: 1
+    openIssue: 0
+    commit: 573
+  last60d:
+    since: 2026-08-31
+    release: 56
+    mergedPR: 100
+    openPR: 4
+    closedIssue: 2
+    openIssue: 0
+    commit: 1056
+  last90d:
+    since: 2026-08-01
+    release: 76
+    mergedPR: 119
+    openPR: 4
+    closedIssue: 5
+    openIssue: 0
+    commit: 1394
+  last180d:
+    since: 2026-05-03
+    release: 84
+    mergedPR: 132
+    openPR: 4
+    closedIssue: 10
+    openIssue: 1
+    commit: 1669
+  last360d:
+    since: 2025-11-04
+    release: 85
+    mergedPR: 142
+    openPR: 4
+    closedIssue: 15
+    openIssue: 2
+    commit: 1889
+  last720d:
+    since: 2024-11-09
+    release: 85
+    mergedPR: 142
+    openPR: 4
+    closedIssue: 15
+    openIssue: 2
+    commit: 2125
+total:
+  release: 85
+  mergedPR: 142
+  openPR: 4
+  closedIssue: 15
+  openIssue: 2
+  commit: 2125
+---
+path: /home/runner/.x-repo/github.com/gglucass/headroom-desktop
+collectedAt: 2026-10-30T05:13:44Z
+loc:
+  Rust:
+    code: 96659
+    comments: 10925
+    blanks: 7405
+    files: 31
+  JavaScript:
+    code: 13113
+    comments: 159
+    blanks: 91
+    files: 4
+  Tsx:
+    code: 12598
+    comments: 1167
+    blanks: 758
+    files: 30
+  TypeScript:
+    code: 9885
+    comments: 1447
+    blanks: 1355
+    files: 36
+  Css:
+    code: 5348
+    comments: 193
+    blanks: 960
+    files: 1
+  Json:
+    code: 5032
+    comments: 0
+    blanks: 1
+    files: 6
+  Python:
+    code: 1338
+    comments: 52
+    blanks: 207
+    files: 10
+  Sh:
+    code: 904
+    comments: 233
+    blanks: 107
+    files: 8
+  Toml:
+    code: 58
+    comments: 33
+    blanks: 8
+    files: 1
+  Html:
+    code: 33
+    comments: 0
+    blanks: 0
+    files: 1
+  Ruby:
+    code: 31
+    comments: 0
+    blanks: 6
+    files: 1
+  Svg:
+    code: 17
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1531
+    blanks: 556
+    files: 17
+total:
+  code: 145377
+  comments: 25884
+  blanks: 11836
+  files: 147
+---
+
+---
