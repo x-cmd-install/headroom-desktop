@@ -32,28 +32,28 @@ Total: **145,513** lines of code across **102** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.9.55-rc.1` (2026-10-31)
+- **Latest**: `v0.9.55-rc.3` (2026-10-31)
 - **Last commit**: 2026-10-31
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 630 · **Forks**: 68 · **Open issues**: 17 · **Contributors**: 5
+- **Stars**: 629 · **Forks**: 68 · **Open issues**: 17 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 144 · **Open PRs**: 2 · **Closed issues**: 15 · **Open issues**: 2 · **Commits**: 2158
+- **Releases**: 85 · **Merged PRs**: 144 · **Open PRs**: 3 · **Closed issues**: 15 · **Open issues**: 2 · **Commits**: 2158
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 26 | 38 | 2 | 1 | 0 | 415 |
-| last60d | 2026-09-02 | 53 | 89 | 2 | 2 | 0 | 956 |
-| 90d | 2026-08-03 | 74 | 121 | 2 | 5 | 0 | 1360 |
-| last180d | 2026-05-05 | 82 | 132 | 2 | 10 | 1 | 1688 |
-| 360d | 2025-11-06 | 83 | 144 | 2 | 15 | 2 | 1917 |
-| last720d | 2024-11-11 | 83 | 144 | 2 | 15 | 2 | 2158 |
+| 30d | 2026-10-03 | 26 | 37 | 3 | 1 | 0 | 415 |
+| last60d | 2026-09-03 | 53 | 87 | 3 | 2 | 0 | 956 |
+| 90d | 2026-08-04 | 75 | 121 | 3 | 5 | 0 | 1360 |
+| last180d | 2026-05-06 | 84 | 131 | 3 | 10 | 0 | 1688 |
+| 360d | 2025-11-07 | 85 | 144 | 3 | 15 | 2 | 1917 |
+| last720d | 2024-11-12 | 85 | 144 | 3 | 15 | 2 | 2158 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for headroom-desktop lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T05:26:43Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T05:26:07Z._
