@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Menu Bar App on MacOS and Windows that cuts Claude Code and Codex token costs by ~50%
+Menu bar app for macOS, Windows and Linux that cuts Claude Code and ChatGPT Codex token costs by ~50%
 
 [![x-cmd/install — headroom-desktop Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/headroom-desktop.svg)](https://x-cmd.com/install/headroom-desktop)
 
@@ -32,28 +32,28 @@ Total: **145,513** lines of code across **102** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.9.55-rc.3` (2026-10-31)
+- **Latest**: `v0.9.55-rc.5` (2026-10-31)
 - **Last commit**: 2026-10-31
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 629 · **Forks**: 68 · **Open issues**: 17 · **Contributors**: 5
+- **Stars**: 631 · **Forks**: 69 · **Open issues**: 17 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 85 · **Merged PRs**: 144 · **Open PRs**: 3 · **Closed issues**: 15 · **Open issues**: 2 · **Commits**: 2158
+- **Releases**: 87 · **Merged PRs**: 144 · **Open PRs**: 5 · **Closed issues**: 15 · **Open issues**: 2 · **Commits**: 2158
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 26 | 37 | 3 | 1 | 0 | 415 |
-| last60d | 2026-09-03 | 53 | 87 | 3 | 2 | 0 | 956 |
-| 90d | 2026-08-04 | 75 | 121 | 3 | 5 | 0 | 1360 |
-| last180d | 2026-05-06 | 84 | 131 | 3 | 10 | 0 | 1688 |
-| 360d | 2025-11-07 | 85 | 144 | 3 | 15 | 2 | 1917 |
-| last720d | 2024-11-12 | 85 | 144 | 3 | 15 | 2 | 2158 |
+| 30d | 2026-10-04 | 28 | 37 | 5 | 1 | 0 | 415 |
+| last60d | 2026-09-04 | 54 | 87 | 5 | 2 | 0 | 956 |
+| 90d | 2026-08-05 | 77 | 121 | 5 | 5 | 0 | 1360 |
+| last180d | 2026-05-07 | 86 | 131 | 5 | 10 | 0 | 1688 |
+| 360d | 2025-11-08 | 87 | 144 | 5 | 15 | 2 | 1917 |
+| last720d | 2024-11-13 | 87 | 144 | 5 | 15 | 2 | 2158 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for headroom-desktop lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:26:07Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:04:40Z._

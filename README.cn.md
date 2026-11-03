@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Menu Bar App on MacOS and Windows that cuts Claude Code and Codex token costs by ~50%
+Menu bar app for macOS, Windows and Linux that cuts Claude Code and ChatGPT Codex token costs by ~50%
 
 [![x-cmd/install — headroom-desktop Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/headroom-desktop.svg?lang=zh)](https://x-cmd.com/install/headroom-desktop)
 
@@ -32,28 +32,28 @@ x install headroom-desktop
 
 ## 发布
 
-- **最新版本**: `v0.9.55-rc.3` (2026-10-31)
+- **最新版本**: `v0.9.55-rc.5` (2026-10-31)
 - **最近提交**: 2026-10-31
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 629 · **Fork**: 68 · **开放 issue**: 17 · **贡献者**: 5
+- **Star**: 631 · **Fork**: 69 · **开放 issue**: 17 · **贡献者**: 5
 
 ## 累计统计
 
-- **发布数**: 85 · **已合并 PR**: 144 · **开放 PR**: 3 · **已关闭 issue**: 15 · **开放 issue**: 2 · **提交数**: 2158
+- **发布数**: 87 · **已合并 PR**: 144 · **开放 PR**: 5 · **已关闭 issue**: 15 · **开放 issue**: 2 · **提交数**: 2158
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 26 | 37 | 3 | 1 | 0 | 415 |
-| last60d | 2026-09-03 | 53 | 87 | 3 | 2 | 0 | 956 |
-| 90d | 2026-08-04 | 75 | 121 | 3 | 5 | 0 | 1360 |
-| last180d | 2026-05-06 | 84 | 131 | 3 | 10 | 0 | 1688 |
-| 360d | 2025-11-07 | 85 | 144 | 3 | 15 | 2 | 1917 |
-| last720d | 2024-11-12 | 85 | 144 | 3 | 15 | 2 | 2158 |
+| 30d | 2026-10-04 | 28 | 37 | 5 | 1 | 0 | 415 |
+| last60d | 2026-09-04 | 54 | 87 | 5 | 2 | 0 | 956 |
+| 90d | 2026-08-05 | 77 | 121 | 5 | 5 | 0 | 1360 |
+| last180d | 2026-05-07 | 86 | 131 | 5 | 10 | 0 | 1688 |
+| 360d | 2025-11-08 | 87 | 144 | 5 | 15 | 2 | 1917 |
+| last720d | 2024-11-13 | 87 | 144 | 5 | 15 | 2 | 2158 |
 
 ## Release 资产
 
@@ -79,4 +79,4 @@ headroom-desktop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261102.yml` · 2026-11-02T05:26:07Z._
+_数据快照: `data/card/261103.yml` · 2026-11-03T06:04:41Z._
