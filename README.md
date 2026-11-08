@@ -48,12 +48,12 @@ Total: **152,565** lines of code across **104** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 28 | 44 | 3 | 1 | 0 | 455 |
-| last60d | 2026-09-08 | 55 | 93 | 3 | 2 | 0 | 996 |
-| 90d | 2026-08-09 | 79 | 131 | 3 | 5 | 0 | 1400 |
-| last180d | 2026-05-11 | 91 | 143 | 3 | 10 | 0 | 1728 |
-| 360d | 2025-11-12 | 92 | 157 | 3 | 15 | 2 | 1957 |
-| last720d | 2024-11-17 | 92 | 157 | 3 | 15 | 2 | 2207 |
+| 30d | 2026-10-09 | 27 | 41 | 3 | 1 | 0 | 313 |
+| last60d | 2026-09-09 | 54 | 92 | 3 | 2 | 0 | 966 |
+| 90d | 2026-08-10 | 79 | 131 | 3 | 5 | 0 | 1308 |
+| last180d | 2026-05-12 | 91 | 143 | 3 | 10 | 0 | 1722 |
+| 360d | 2025-11-13 | 92 | 157 | 3 | 15 | 2 | 1957 |
+| last720d | 2024-11-18 | 92 | 157 | 3 | 15 | 2 | 2207 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for headroom-desktop lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:29:06Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T05:29:10Z._
